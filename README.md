@@ -1,60 +1,70 @@
-# 🚀 Desafio Técnico - Desenvolvedor(a) Full Stack
+# Getting Started with Create React App
 
-Bem-vindo(a)! Este repositório contém o desafio técnico para a vaga de **Desenvolvedor(a) Full Stack**. O objetivo é avaliar suas habilidades em desenvolvimento web, tanto no front-end quanto no back-end, além da capacidade de estruturar um projeto funcional e bem organizado.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## 🎯 Objetivo do Projeto
+In the project directory, you can run:
 
-Crie uma aplicação web completa para **gerenciamento de tarefas (to-do list)**, contendo:
+### `yarn start`
 
-- Cadastro, edição e exclusão de tarefas
-- Marcar tarefas como concluídas
-- Listagem de tarefas pendentes e concluídas
-- Interface responsiva
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
----
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🧰 Tecnologias sugeridas
+### `yarn test`
 
-Você pode utilizar as tecnologias que preferir, mas sugerimos:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- **Front-end**: React, Vue ou similar
-- **Back-end**: Node.js com Express (ou outra linguagem/framework de sua preferência)
-- **Banco de dados**: Mysql
-- **Extras** (opcional):
-  - Autenticação de usuários
-  - Testes automatizados
-  - Deploy em ambiente gratuito (Vercel, Netlify, Render, etc.)
+### `yarn build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## ✅ Requisitos
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- Fazer um fork deste repositório antes de iniciar o desenvolvimento
-- Utilizar Git para versionamento (incluindo histórico de commits)
-- Criar um `README.md` explicando como rodar o projeto
-- Boa organização de pastas e código
-- Seguir boas práticas de desenvolvimento
-- (Opcional) Link do projeto publicado online
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
----
+### `yarn eject`
 
-## 📦 Entrega
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-- Envie o link do repositório público no GitHub para o e-mail: [henrique@tarefy.com] e [douglas@tarefy.com]
-- prazo de entrega é de até 5 dias corridos após o recebimento deste desafio
-- layout é livre: sinta-se à vontade para usar sua criatividade ou alguma biblioteca de UI que preferir.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
----
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## 📘 Como rodar o projeto
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Inclua aqui no seu repositório instruções claras para rodar o front-end e o back-end localmente, por exemplo:
+## Learn More
 
-```bash
-# Instalar dependências
-npm install
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-# Rodar aplicação
-npm run dev
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
